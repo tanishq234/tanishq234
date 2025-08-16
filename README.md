@@ -35,7 +35,8 @@
 ## 🏆 Achievements  
 - **Solved 150+ coding problems** on various platforms.  
 - **Competitive Programming**: **CodeChef Rating - 1106**.  
-- **Currently working on**: **AdaBoost & Random Forest ML models**.  
+- **Currently working on**: **AdaBoost & Random Forest ML models**.
+- **Leetcode Solved 200 + DSA Problems Leetcode Rating - 1531**.  
 
 ---
 
